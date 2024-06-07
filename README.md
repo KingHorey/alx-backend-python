@@ -1,7 +1,9 @@
-# Backend with Python
+# Python Type Annotations
 
-# Introduction
-Python as a language that is loved by many due to it's easy to understand structure is one of the famous tools used in the development of web applications.
-With it's robust frameworks, Python has become the go-to for backend developers while building
+# Why Use Annotations
+Reading code can be confusing and mistakes that can be avoided tend to be made.
+
+Type annotations help with this issue.
+By giving insights into the type of data required and the return value from methods, classes and methods, silly bugs that crop up in development can be caught and handled with ease.
 
 
